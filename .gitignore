@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Solution1/.vs
+/Solution1/VestraCare.OrderManagement.Core.Application/bin/Debug/net8.0
+/Solution1/VestraCare.OrderManagement.Core.Application/obj
+/Solution1/VestraCare.OrderManagement.Core.Domain/bin/Debug/net8.0
+/Solution1/VestraCare.OrderManagement.Core.Domain/obj
+/Solution1/VestraCare.OrderManagement.Infrastructure.Persistence/bin/Debug/net8.0
+/Solution1/VestraCare.OrderManagement.Infrastructure.Persistence/obj
+/Solution1/VestraCare.OrderManagement.WebApi/bin/Debug/net8.0
+/Solution1/VestraCare.OrderManagement.WebApi/obj
